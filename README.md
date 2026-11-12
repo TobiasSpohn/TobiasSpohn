@@ -1,16 +1,25 @@
-## Hi there 👋
+## Tobias Spohn
 
-<!--
-**TobiasSpohn/TobiasSpohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD researcher at the [Institute for Quantum Optics](https://www.uni-ulm.de/nawi/iqo/), Ulm University. I build and control spin qubits in diamond for quantum sensing, computing and simulation – from pulse-level control to the software that runs the experiment.
 
-Here are some ideas to get you started:
+### Open source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Qudi](https://github.com/Ulm-IQO/qudi-core)** – a modular Python framework for controlling and automating quantum experiments, used by research groups worldwide. As a maintainer I work on:
+
+- testing, CI and release engineering (v0.6.0, v1.0.0)
+- measurement modules, e.g. quantum heterodyne (Qdyne) detection and shaped pulses
+- instrument drivers (digitizers, photon counters, lasers, MW sources, piezo stages)
+- installation and deployment, including [qudi-docker](https://github.com/TobiasSpohn/qudi-docker)
+
+### Research
+
+- *Quantum Memory Enhanced Multipoint Correlation Spectroscopy for Statistically Polarized NMR*, Phys. Rev. Lett. 135, 250801 (2025) – [doi:10.1103/1cj2-rxkm](https://doi.org/10.1103/1cj2-rxkm)
+- *Reduced photothermal heating in diamonds enriched with H3 point defects*, J. Appl. Phys. 131, 234401 (2022) – [doi:10.1063/5.0090661](https://doi.org/10.1063/5.0090661)
+
+### Tools
+
+Python (NumPy, SciPy, lmfit, PySide6) · Rust · GitHub Actions · Docker · COMSOL
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/tobias-spohn) · [ORCID](https://orcid.org/0000-0001-8481-5044)
